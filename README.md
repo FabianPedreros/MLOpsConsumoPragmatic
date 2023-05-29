@@ -14,5 +14,7 @@ Asegurarse de hacer uso del Command Prompt (cmd)
 image.png
 
 5. Llenar el archivo Makefile que es el que tiene los pasos del proyecto desde DevOps
-6. 
+6. Diligenciar el archivo requirements.txt con las librerias requeridas, usar freeze para establecer las versiones
+7. Crear un workflow en las acciones del repositorio de GitHub, como el archivo devops.yml. Ejecutar.
+8. 
 

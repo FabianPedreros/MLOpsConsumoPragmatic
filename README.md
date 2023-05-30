@@ -18,5 +18,7 @@ image.png
 7. Crear un workflow en las acciones del repositorio de GitHub, como el archivo devops.yml. Ejecutar.
 8. Creacion de archivo para uso de fire cli-fire.py
 9. Ejecutar el archivo fire con comando: chmod +x cli-fire.py para despues hacer ./cli-fire.py --help Esto es para brindar info de las funciones ejecutadas como el nombre, sinopsis, descripcion y flags, lo que se esta haciendo es probar la logica. Se pueden pasar los parametros de las funciones con el uso de ./cli-fire.py --name "Barack Obama"
-10. 
+10. Uso de FastApi junto con uvicorn. Usar /docs para acceder a la documentacion 
+11. Creacion de un contenedor Docker y se incluye la creacion en el makefile, revisar creacion con comando: docker image ls
+12. Se incluye igualmente en el makefile la ejecucion del docker con la imagen > docker run -p 127.0.0.1:8080:8080 fe50515f97d1
 

@@ -16,5 +16,7 @@ image.png
 5. Llenar el archivo Makefile que es el que tiene los pasos del proyecto desde DevOps
 6. Diligenciar el archivo requirements.txt con las librerias requeridas, usar freeze para establecer las versiones
 7. Crear un workflow en las acciones del repositorio de GitHub, como el archivo devops.yml. Ejecutar.
-8. 
+8. Creacion de archivo para uso de fire cli-fire.py
+9. Ejecutar el archivo fire con comando: chmod +x cli-fire.py para despues hacer ./cli-fire.py --help Esto es para brindar info de las funciones ejecutadas como el nombre, sinopsis, descripcion y flags, lo que se esta haciendo es probar la logica. Se pueden pasar los parametros de las funciones con el uso de ./cli-fire.py --name "Barack Obama"
+10. 
 

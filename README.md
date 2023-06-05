@@ -8,7 +8,7 @@ Asegurarse de hacer uso del Command Prompt (cmd)
  y activacion: venv\Scripts\activate
 
 2. Creacion de archivos vacios comando: type nul > requirements.txt, type nul > Dockerfile, type nul > Makefile 
-3. Creacion de una libreria en la que almacenar: md mylib y crear archivo para iniciarlo: type nul > mylib/__init__.py
+3. Creacion de una libreria en la que almacenar: md mylib y crear archivo para iniciarlo: type nul > 'mylib/__init__.py'
 4. Creacion de un archivo en el que se encuentra la logica del programa: type nul > mylib/logic.py y creacion del archivo main.py: type nul > main.py
 
 image.png
